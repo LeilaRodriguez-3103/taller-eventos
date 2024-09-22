@@ -10,3 +10,8 @@ button {
     padding: 10px 20px;
     font-size: 16px;
 }
+#buttonContainer {
+    padding: 5px;
+    background-color: green;
+    border-radius: 5px; /* Añadido para un mejor aspecto */
+}
